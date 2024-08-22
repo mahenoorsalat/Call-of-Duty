@@ -1,4 +1,4 @@
-# Movie Trailer Pop-Up
+# Call of Duty Pop-Up
 
 ![Movie Trailer Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9yzmqnTFYVW9_ivEV7495ebr-6KgrxvRvw&s)
 
